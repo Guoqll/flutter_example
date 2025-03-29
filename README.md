@@ -1,2 +1,3 @@
 # flutter_example
-Record examples from learning or work
+
+1、dart run build_runner watch
